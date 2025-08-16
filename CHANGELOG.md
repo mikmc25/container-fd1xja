@@ -1,3 +1,15 @@
+# v0.0.5 (Sat Aug 16 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Delete amber.yaml ([@mikmc25](https://github.com/mikmc25))
+
+#### Authors: 1
+
+- [@mikmc25](https://github.com/mikmc25)
+
+---
+
 # v0.0.4 (Sat Aug 16 2025)
 
 #### ⚠️ Pushed to `main`
