@@ -1,3 +1,16 @@
+# v0.0.6 (Sat Aug 16 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Create .buildpacks ([@mikmc25](https://github.com/mikmc25))
+- Create Procfile ([@mikmc25](https://github.com/mikmc25))
+
+#### Authors: 1
+
+- [@mikmc25](https://github.com/mikmc25)
+
+---
+
 # v0.0.5 (Sat Aug 16 2025)
 
 #### ⚠️ Pushed to `main`
