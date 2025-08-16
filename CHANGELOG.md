@@ -1,3 +1,15 @@
+# v0.0.3 (Sat Aug 16 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.js ([@mikmc25](https://github.com/mikmc25))
+
+#### Authors: 1
+
+- [@mikmc25](https://github.com/mikmc25)
+
+---
+
 # v0.0.2 (Sat Aug 16 2025)
 
 #### ⚠️ Pushed to `main`
